@@ -67,7 +67,7 @@ function Header() {
                     <div className="col-lg-2 col-md-3 col-6">
                         <Link to="/" className="navbar-brand">
                             <img
-                                src="./../logofan.png"
+                                src="https://res.cloudinary.com/duj4e3i6z/image/upload/v1729172836/logofan_cyuvb7.png"
                                 alt="Logo"
                                 className="img-fluid"
                                 style={{ maxWidth: '200px', borderRadius: '10px' }}
@@ -327,7 +327,7 @@ function Header() {
                 </div>
             </div>
 
-            <a href="#top" className="top"><img src="../Images/Top.jpg" alt='top' style={{ width: "30px" }}></img></a>
+            <a href="#top" className="top"><img src="https://res.cloudinary.com/duj4e3i6z/image/upload/v1729172852/Top_qokqaf.png" alt='top' style={{ width: "30px" }}></img></a>
 
         </header>
     );
